@@ -1,7 +1,8 @@
 const homeController = {
 
     index:(req, res) => {
-        res.sendStatus(501)
+        console.log(req.session);
+        res.render('home/index');
     }
 };
 

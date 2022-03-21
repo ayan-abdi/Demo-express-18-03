@@ -18,6 +18,7 @@
     "express": "^4.17.3",
     "express-session": "^1.17.2",
     "mssql": "^8.0.2",
+    "session-file-store": "^1.5.0",
     "yup": "^0.32.11"
   },
   "devDependencies": {

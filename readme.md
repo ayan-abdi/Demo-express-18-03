@@ -1,0 +1,1 @@
+session-file-store est un fichie qui permet de recuperer les données encoder sur mon login et donc si on utilise le logout pour detruire ensuite
